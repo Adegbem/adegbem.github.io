@@ -6,7 +6,7 @@ module.exports = {
     'Emmanuel Adetunji, Emmanuel, Adetunji, Adegbem, data scientist, data analyst, machine learning, wheel chair, load shortfall, web scrapping, java developer, python developer, streamlit, nlp',
   siteUrl: 'https://adegbem.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-251689186-1',
+  googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Emmanuel Adetunji',
   location: 'Osun State, Nigeria',
